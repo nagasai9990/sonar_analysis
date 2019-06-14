@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=sai_sonar \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=f325a5beccbbb86b1ff694957f297e3070ccf518
